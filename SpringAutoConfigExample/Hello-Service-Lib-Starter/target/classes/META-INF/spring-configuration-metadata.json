@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "hello.message",
+      "type": "spring.rohit.propertyConfig.HelloPropertyConfig",
+      "sourceType": "spring.rohit.propertyConfig.HelloPropertyConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hello.message.postfix",
+      "type": "java.lang.String",
+      "description": "Give your Postfix",
+      "sourceType": "spring.rohit.propertyConfig.HelloPropertyConfig"
+    },
+    {
+      "name": "hello.message.prefix",
+      "type": "java.lang.String",
+      "description": "Give your prefix",
+      "sourceType": "spring.rohit.propertyConfig.HelloPropertyConfig"
+    }
+  ],
+  "hints": []
+}
