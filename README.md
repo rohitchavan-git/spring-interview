@@ -1,2 +1,2 @@
-# Spring-core-and-boot
-The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform.  A key element of Spring is infrastructural support at the application level: Spring focuses on the "plumbing" of enterprise applications so that teams can focus on application-level business logic, without unnecessary ties to specific deployment environments.
+# Spring Practice Examples for Interview Preparation 
+Here I create a Reposistory for helping peoples for cracking there Spring Boot interview , and tries to implement all important concepts. 
